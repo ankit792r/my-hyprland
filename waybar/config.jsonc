@@ -1,6 +1,7 @@
 {
+  "layer":"top",
   "position": "bottom",
-  "height": 8,
+  "height": 28,
   "modules-left": ["hyprland/workspaces", "hyprland/window"],
   "modules-center": [],
   "modules-right": [
